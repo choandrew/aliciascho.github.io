@@ -10,7 +10,7 @@ body {
 }
 
 div.banner {
-  background-color: #800000;
+  background-color: #ff8da1;
   color: white;
   margin-bottom: 0px;
   margin-top: 0px;
@@ -20,7 +20,7 @@ div.banner {
 }
 
 div.navbar {
-  background-color: #800000;
+  background-color: #ff8da1;
   color: black;
   border-style: thin solid;
   border-top: thin solid black;
